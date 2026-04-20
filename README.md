@@ -1,59 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=SBBS%20Kushwaha&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20C%2B%2B%20%7C%20DSA&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=SBBS%20Kushwaha&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20C%2B%2B%20%7C%20DSA&descAlignY=65" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=BCA+Student+%7C+Developer;C%2B%2B+%7C+DSA+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer+🚀" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=BCA+Student;C%2B%2B+%7C+DSA+Enthusiast;Building+Real+World+Projects;Future+Software+Engineer+🚀" />
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=A78BFA&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=flat" />
 
 </div>
 
 ---
 
-## 💖 About Me
+## 👋 About Me
 
-- 🎓 BCA Final Year Student  
+Hi, I'm **SBBS Kushwaha** — passionate about development & problem solving.
+
+- 🎓 BCA Final Year  
 - 💻 Full Stack Developer  
-- 🧠 Strong in **C++ & DSA**  
-- 🚀 Building **BugSage (AI Debugging Assistant)**  
-- 🛒 Developed **GreenCart (E-commerce App)**  
-- 📺 Created **YouTube Clone**  
-- 🔥 Solved **100+ LeetCode Problems**  
-- ⚡ Code + Consistency = Growth  
+- 🧠 C++ | DSA  
+- 🚀 Working on **BugSage (AI Debugging Tool)**  
+- 🛒 Built **GreenCart (E-commerce App)**  
+- 📺 YouTube Clone Developer  
+- 🔥 100+ LeetCode Problems  
 
 ---
 
-<table align="center" width="100%">
-<tr>
-<td width="50%">
+## 🚀 What I'm Doing
 
-### 🚀 What I'm Doing
-- ⚛️ Building Full Stack Apps  
+- ⚛️ Building Full Stack Projects  
 - 📊 Practicing DSA Daily  
-- 🤖 Exploring AI Projects  
+- 🤖 Exploring AI  
 - 🎯 Preparing for Placements  
 
-</td>
-
-<td width="50%">
-
-### 🎯 Quick Facts
-- 💻 Focus: Development + DSA  
-- 🤝 Open to Collaborations  
-- 📚 Learning Backend Deeply  
-- 🔥 Goal: Software Engineer  
-
-</td>
-</tr>
-</table>
-
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -77,35 +59,23 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,mongodb,git,github" width="90%" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-Daily%20Practice-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Projects-Real%20World-green?style=for-the-badge"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="100%" />
 
 </div>
 
@@ -116,7 +86,7 @@
 <div align="center">
 
 <a href="https://leetcode.com/u/ShriBhagwanKumar/">
-<img src="https://leetcard.jacoblin.cool/ShriBhagwanKumar?theme=dark&font=JetBrains+Mono&ext=heatmap" width="60%" />
+<img src="https://leetcard.jacoblin.cool/ShriBhagwanKumar?theme=dark&ext=heatmap" width="100%" />
 </a>
 
 </div>
@@ -133,36 +103,11 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 💡 Quote
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%">
-
-</div>
-
----
-
-## ✨ Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## 🎯 Skill Progress
-
-<div align="center">
-
-| Skill | Level |
-|------|------|
-| C++ / DSA | █████████░ 90% |
-| Frontend | ████████░░ 80% |
-| Backend | ██████░░░░ 60% |
-| AI / ML | █████░░░░░ 50% |
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" />
 
 </div>
 
@@ -170,8 +115,6 @@
 
 <div align="center">
 
-💜 Thanks for visiting — Keep Coding 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+🔥 **Consistency + DSA + Projects = Placement 🚀**
 
 </div>
