@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Shri%20Bhagwan%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=SBBS%20Kushwaha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20C%2B%2B%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Building+Scalable+Web+Apps+🚀" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=BCA+Student+%7C+Aspiring+Software+Engineer;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Building+Real+World+Projects;AI+%7C+Full+Stack+Developer+🚀" />
+</a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shribhagwan7&label=Profile+Views&color=blueviolet&style=flat" />
-<img src="https://img.shields.io/github/followers/shribhagwan7?label=Followers&style=flat&color=blue" />
+<a href="https://github.com/yourusername">
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</a>
 
 </div>
 
@@ -15,35 +18,28 @@
 
 ## 👋 About Me
 
-Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on building scalable and real-world applications.
+Hi, I'm **SBBS Kushwaha** — passionate about building scalable apps and solving real-world problems.
 
 - 🎓 BCA Final Year Student  
-- 💻 Full Stack Developer (React + Node.js)  
-- 🧠 Strong in **C++ & DSA**  
-- 🚀 Building production-ready projects  
-- 🏆 Top 1% in academics  
+- 💻 Full Stack Developer  
+- 🧠 C++ | DSA Enthusiast  
+- 🚀 Working on **BugSage (AI Debugging Assistant)**  
+- 🛒 Built **GreenCart (E-commerce App)**  
+- 📺 Created **YouTube Clone**  
+- 🔥 Solved 100+ LeetCode Problems  
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🛒 GreenCart (E-commerce)
-- JWT Authentication + MongoDB  
-- Cart, Orders, Payment System  
-- Fully responsive UI  
+### 🧠 BugSage – AI Debugging Assistant  
+AI-powered error detection & explanation system  
 
-### 📋 TaskPilot (Ongoing)
-- PERN stack project  
-- Role-based auth (Clerk)  
-- Task tracking + notifications  
+### 🛒 GreenCart – E-commerce Platform  
+Cart | Orders | Payments | Full-stack  
 
-### 🏥 bookDoctor
-- Appointment booking system  
-- Search, filter, real-time updates  
-
-### 🍔 Swiggy Clone
-- Food ordering UI  
-- Cart + Payment + Dark Mode  
+### 📺 YouTube Clone  
+API-based video platform (HTML, CSS, JS)  
 
 ---
 
@@ -51,7 +47,29 @@ Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,vscode" width="90%" />
+<a href="https://en.cppreference.com/">
+<img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
 
 </div>
 
@@ -61,32 +79,12 @@ Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shribhagwan7&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+<a href="https://github.com/yourusername">
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shribhagwan7&theme=tokyonight&hide_border=true" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shribhagwan7&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shribhagwan7&theme=radical&no-frame=true&margin-w=10&row=1" />
-
-</div>
-
----
-
-## ⚔️ LeetCode Stats
-
-<div align="center">
-
-<a href="https://leetcode.com/u/ShriBhagwanKumar/" target="_blank">
-<img src="https://leetcard.jacoblin.cool/ShriBhagwanKumar?theme=dark&ext=heatmap" width="100%" />
+<a href="https://github.com/yourusername">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 </div>
@@ -97,7 +95,21 @@ Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shribhagwan7&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<a href="https://github.com/yourusername">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</a>
+
+</div>
+
+---
+
+## ⚔️ LeetCode Stats (LIVE)
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ShriBhagwanKumar/">
+<img src="https://leetcard.jacoblin.cool/ShriBhagwanKumar?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0" width="60%" />
+</a>
 
 </div>
 
@@ -107,25 +119,31 @@ Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on 
 
 <div align="center">
 
-<a href="mailto:official.shribhagwan7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/shribhagwan7">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/ShriBhagwanKumar/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shribhagwankr/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/sbbs_kushwaha/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+## 💡 Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
