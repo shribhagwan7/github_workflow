@@ -115,8 +115,8 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/sbbs_kushwaha/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/sbbs_kushwaha/" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
 </a>
 
 </div>
