@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **SBBS Kushwaha** — passionate about building scalable apps and solving real-world problems.
+Hi, I'm **Shri Bhagwan Kumar** — passionate about building scalable apps and solving real-world problems.
 
 - 🎓 BCA Final Year Student  
 - 💻 Full Stack Developer  
