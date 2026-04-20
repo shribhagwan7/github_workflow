@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shri%20Bhagwan%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20C%2B%2B%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shri%20Bhagwan%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20C%2B%2B%20%7C%20DSA%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=BCA+Student+%7C+Aspiring+Software+Engineer;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Building+Real+World+Projects;AI+%7C+Full+Stack+Developer+🚀" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=BCA+Student+%7C+Aspiring+Software+Engineer;C%2B%2B+%7C+DSA+%7C+Problem+Solver;Building+Real+World+Projects;AI+%7C+Full+Stack+Developer+🚀" />
+</a>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=shribhagwan7&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/shribhagwan7?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1a1a2e" />
 
 </div>
 
@@ -58,7 +59,7 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,git,github,vscode" width="90%" />
+<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nodejs,express,mongodb,git,github,vscode" />
 
 </div>
 
@@ -68,11 +69,9 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shribhagwan7&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shribhagwan7&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shribhagwan7&theme=tokyonight&hide_border=true" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shribhagwan7&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shribhagwan7&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -82,7 +81,7 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shribhagwan7&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shribhagwan7&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -93,7 +92,7 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 <div align="center">
 
 <a href="https://leetcode.com/u/ShriBhagwanKumar/" target="_blank">
-<img src="https://leetcard.jacoblin.cool/ShriBhagwanKumar?theme=dark&font=JetBrains+Mono&ext=heatmap" width="100%" />
+<img src="https://leetcard.jacoblin.cool/ShriBhagwanKumar?theme=dark&font=JetBrains+Mono&ext=heatmap" width="60%" />
 </a>
 
 </div>
@@ -104,23 +103,15 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/shribhagwankr/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="mailto:official.shribhagwan7@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shribhagwan7">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/ShriBhagwanKumar/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shribhagwankr/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/sbbs_kushwaha/">
+<a href="https://www.instagram.com/sbbs_kushwaha/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -140,6 +131,6 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 
 <div align="center">
 
-🔥 **Consistency + Projects + DSA = Success 🚀**  
+🔥 **Consistency + Projects + DSA = Success** 🔥  
 
 </div>
