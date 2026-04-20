@@ -142,6 +142,6 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 
 <div align="center">
 
-🔥 **Consistency + Projects + DSA = Success** 🔥  
+🚀 Consistency + Real-world Projects + DSA = A Strong Software Engineering Career.
 
 </div>
