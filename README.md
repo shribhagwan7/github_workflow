@@ -6,8 +6,8 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blueviolet&style=flat" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=shribhagwan7&label=Profile+Views&color=blueviolet&style=flat" />
+<img src="https://img.shields.io/github/followers/shribhagwan7?label=Followers&style=flat&color=blue" />
 
 </div>
 
@@ -61,11 +61,11 @@ Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shribhagwan7&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shribhagwan7&theme=tokyonight&hide_border=true" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shribhagwan7&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 
 </div>
 
@@ -75,7 +75,7 @@ Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=shribhagwan7&theme=radical&no-frame=true&margin-w=10&row=1" />
 
 </div>
 
@@ -97,7 +97,7 @@ Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shribhagwan7&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -111,7 +111,7 @@ Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shribhagwan7">
 <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
 </a>
 
@@ -119,8 +119,12 @@ Hi, I'm **Shri Bhagwan Kumar** — a passionate Full Stack Developer focused on 
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://www.linkedin.com/in/shribhagwankr/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/sbbs_kushwaha/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
