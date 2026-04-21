@@ -123,7 +123,9 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
+</div><br>
+
+---
 
 ## 🐍 Contribution Snake
 
