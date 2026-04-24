@@ -31,27 +31,33 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 
 ## 🚀 Featured Projects
 
-### 🧠 BugSage – AI Debugging Assistant
-> Smart tool to detect & explain coding errors  
-- AI-based error analysis  
-- Context-aware suggestions  
-- Full-stack architecture  
-
----
-
-### 🛒 GreenCart – E-commerce Platform
+### 🛒 GreenCart – E-commerce Platform  
 > Complete shopping experience  
+
 - Cart & Order Management  
 - Payment Integration (COD + Online)  
-- Backend + Frontend  
+- Secure Backend APIs (JWT Authentication)  
+- Full-stack (React + Node.js + MongoDB)  
 
 ---
 
-### 📺 YouTube Clone
-> Video browsing platform using API  
-- Fetch videos via API  
-- Responsive UI  
-- Pure HTML, CSS, JS  
+### 🏥 bookDoctor – Appointment Booking System  
+> Smart healthcare booking solution  
+
+- Doctor search & filtering  
+- Appointment scheduling system  
+- Real-time updates & notifications  
+- Full-stack implementation  
+
+---
+
+### 🍔 Swiggy Clone – Food Ordering UI  
+> Frontend-based food delivery interface  
+
+- Restaurant listing & menu UI  
+- Dynamic cart management (frontend state)  
+- Responsive design with mobile-first approach  
+- Built using HTML, CSS, JavaScript + Tailwind CSS  
 
 ---
 
