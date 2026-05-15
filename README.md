@@ -42,18 +42,15 @@ Hi, I'm **Shri Bhagwan Kumar** — a dedicated developer focused on **real-world
 ---
 
 ### 🤖 AI Habit Tracker – AI-Powered Habit Tracking Platform  
-> Smart habit building with personalized AI insights and analytics  
+> Smart habit tracking with personalized AI insights
 
 - Create and manage daily and weekly habits
-- Track completions with streaks, heatmaps, and detailed statistics
-- AI-generated Weekly Reports using Google Gemini API
-- Personalized Habit Suggestions based on goals and past struggles
-- 3-Day Recovery Plans when streaks are broken
-- Morning Motivation messages tailored to active habits
-- Natural Language Habit Analysis (ask questions about your habit data)
+- Track streaks, heatmaps, and detailed statistics
+- AI-generated weekly reports and habit suggestions using Google Gemini API
+- Recovery plans and personalized morning motivation
 - Secure JWT Authentication and protected REST APIs
-- Full-stack development using React, Node.js, Express.js, and MongoDB
-- Deployed frontend and backend on Vercel with MongoDB Atlas
+- Built with React, Node.js, Express.js, and MongoDB
+- Deployed on Vercel with MongoDB Atlas
   
 ---
 
